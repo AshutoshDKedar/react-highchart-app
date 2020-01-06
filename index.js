@@ -5,9 +5,8 @@ import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import '../node_modules/popper.js/dist/popper.min';
 import '../node_modules/bootstrap/dist/js/bootstrap.min';
 import './custom';*/
-import './index.css';
+import './style.css';
 import App from './App';
-import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
