@@ -39,7 +39,7 @@ class App extends Component{
     }
     render(){
         return(
-            <div className="anuj-app-wrapper">
+            <div className="app-wrapper">
                 {!this.state.displayState &&
                     <div className="first-stage">
                         <PrimaryStage calculate={this.calculate} />
