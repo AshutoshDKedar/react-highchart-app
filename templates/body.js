@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import App from '../components/Advisor_Calculator/app';
+import App from '../components/Main_Application/app';
 
 class Body extends Component{
     render(){
